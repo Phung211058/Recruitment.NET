@@ -1,0 +1,533 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Public\\web C#\\Job22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\areas\\identity\\pages\\account\\registeremployer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\areas\\identity\\pages\\account\\registeremployer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\areas\\identity\\pages\\account\\registercandidate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\areas\\identity\\pages\\account\\registercandidate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\areas\\identity\\pages\\account\\registercandidate.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\areas\\identity\\pages\\account\\registercandidate.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\views\\applications\\viewapplications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\views\\applications\\viewapplications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\views\\applications\\jobforcandidates.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\views\\applications\\jobforcandidates.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\views\\applications\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\views\\applications\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\views\\applications\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\views\\applications\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\views\\joblists\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\views\\joblists\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\views\\candidates\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\views\\candidates\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\views\\candidates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\views\\candidates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\views\\employers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\views\\employers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\views\\employers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\views\\employers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\controllers\\joblistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\controllers\\joblistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\controllers\\employerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\controllers\\employerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\areas\\identity\\pages\\account\\registeremployer.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\areas\\identity\\pages\\account\\registeremployer.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\models\\joblist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\models\\joblist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\models\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\models\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|d:\\public\\web c#\\job22\\job22\\job22.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35434074-ABA5-4AEC-A850-A1F6341CEB40}|Job22\\Job22.csproj|solutionrelative:job22\\job22.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Job22\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Job22\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T06:24:23.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterCandidate.cshtml.cs",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Areas\\Identity\\Pages\\Account\\RegisterCandidate.cshtml.cs",
+              "RelativeDocumentMoniker": "Job22\\Areas\\Identity\\Pages\\Account\\RegisterCandidate.cshtml.cs",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Areas\\Identity\\Pages\\Account\\RegisterCandidate.cshtml.cs",
+              "RelativeToolTip": "Job22\\Areas\\Identity\\Pages\\Account\\RegisterCandidate.cshtml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T06:14:21.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterCandidate.cshtml",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Areas\\Identity\\Pages\\Account\\RegisterCandidate.cshtml",
+              "RelativeDocumentMoniker": "Job22\\Areas\\Identity\\Pages\\Account\\RegisterCandidate.cshtml",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Areas\\Identity\\Pages\\Account\\RegisterCandidate.cshtml",
+              "RelativeToolTip": "Job22\\Areas\\Identity\\Pages\\Account\\RegisterCandidate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T08:23:22.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterEmployer.cshtml",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Areas\\Identity\\Pages\\Account\\RegisterEmployer.cshtml",
+              "RelativeDocumentMoniker": "Job22\\Areas\\Identity\\Pages\\Account\\RegisterEmployer.cshtml",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Areas\\Identity\\Pages\\Account\\RegisterEmployer.cshtml",
+              "RelativeToolTip": "Job22\\Areas\\Identity\\Pages\\Account\\RegisterEmployer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T06:25:48.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Job22\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Job22\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T08:43:24.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewApplications.cshtml",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Views\\Applications\\ViewApplications.cshtml",
+              "RelativeDocumentMoniker": "Job22\\Views\\Applications\\ViewApplications.cshtml",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Views\\Applications\\ViewApplications.cshtml",
+              "RelativeToolTip": "Job22\\Views\\Applications\\ViewApplications.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T02:01:40.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobForCandidates.cshtml",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Views\\Applications\\JobForCandidates.cshtml",
+              "RelativeDocumentMoniker": "Job22\\Views\\Applications\\JobForCandidates.cshtml",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Views\\Applications\\JobForCandidates.cshtml",
+              "RelativeToolTip": "Job22\\Views\\Applications\\JobForCandidates.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T05:02:36.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Views\\Applications\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Job22\\Views\\Applications\\Edit.cshtml",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Views\\Applications\\Edit.cshtml",
+              "RelativeToolTip": "Job22\\Views\\Applications\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T06:58:36.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Views\\Applications\\Create.cshtml",
+              "RelativeDocumentMoniker": "Job22\\Views\\Applications\\Create.cshtml",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Views\\Applications\\Create.cshtml",
+              "RelativeToolTip": "Job22\\Views\\Applications\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T06:44:45.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Views\\JobLists\\Index.cshtml",
+              "RelativeDocumentMoniker": "Job22\\Views\\JobLists\\Index.cshtml",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Views\\JobLists\\Index.cshtml",
+              "RelativeToolTip": "Job22\\Views\\JobLists\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T01:33:07.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Views\\Candidates\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Job22\\Views\\Candidates\\Edit.cshtml",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Views\\Candidates\\Edit.cshtml",
+              "RelativeToolTip": "Job22\\Views\\Candidates\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T07:42:11.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Views\\Candidates\\Index.cshtml",
+              "RelativeDocumentMoniker": "Job22\\Views\\Candidates\\Index.cshtml",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Views\\Candidates\\Index.cshtml",
+              "RelativeToolTip": "Job22\\Views\\Candidates\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T15:05:12.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Views\\Employers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Job22\\Views\\Employers\\Edit.cshtml",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Views\\Employers\\Edit.cshtml",
+              "RelativeToolTip": "Job22\\Views\\Employers\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T14:28:20.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationsController.cs",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Controllers\\ApplicationsController.cs",
+              "RelativeDocumentMoniker": "Job22\\Controllers\\ApplicationsController.cs",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Controllers\\ApplicationsController.cs",
+              "RelativeToolTip": "Job22\\Controllers\\ApplicationsController.cs",
+              "ViewState": "AQIAAO8AAAAAAAAAAAA5wAsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:39:23.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CandidatesController.cs",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Controllers\\CandidatesController.cs",
+              "RelativeDocumentMoniker": "Job22\\Controllers\\CandidatesController.cs",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Controllers\\CandidatesController.cs",
+              "RelativeToolTip": "Job22\\Controllers\\CandidatesController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAswKcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:36:00.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JobListsController.cs",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Controllers\\JobListsController.cs",
+              "RelativeDocumentMoniker": "Job22\\Controllers\\JobListsController.cs",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Controllers\\JobListsController.cs",
+              "RelativeToolTip": "Job22\\Controllers\\JobListsController.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAA2wKkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:37:34.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Views\\Employers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Job22\\Views\\Employers\\Index.cshtml",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Views\\Employers\\Index.cshtml",
+              "RelativeToolTip": "Job22\\Views\\Employers\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T08:48:42.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployersController.cs",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Controllers\\EmployersController.cs",
+              "RelativeDocumentMoniker": "Job22\\Controllers\\EmployersController.cs",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Controllers\\EmployersController.cs",
+              "RelativeToolTip": "Job22\\Controllers\\EmployersController.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAA1wKMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T06:33:08.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterEmployer.cshtml.cs",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Areas\\Identity\\Pages\\Account\\RegisterEmployer.cshtml.cs",
+              "RelativeDocumentMoniker": "Job22\\Areas\\Identity\\Pages\\Account\\RegisterEmployer.cshtml.cs",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Areas\\Identity\\Pages\\Account\\RegisterEmployer.cshtml.cs",
+              "RelativeToolTip": "Job22\\Areas\\Identity\\Pages\\Account\\RegisterEmployer.cshtml.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAYwI4AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T08:51:46.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Application.cs",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "Job22\\Models\\Application.cs",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Models\\Application.cs",
+              "RelativeToolTip": "Job22\\Models\\Application.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T07:36:37.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JobList.cs",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Models\\JobList.cs",
+              "RelativeDocumentMoniker": "Job22\\Models\\JobList.cs",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Models\\JobList.cs",
+              "RelativeToolTip": "Job22\\Models\\JobList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T07:36:25.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Models\\Candidate.cs",
+              "RelativeDocumentMoniker": "Job22\\Models\\Candidate.cs",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Models\\Candidate.cs",
+              "RelativeToolTip": "Job22\\Models\\Candidate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T07:36:13.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Employer.cs",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Models\\Employer.cs",
+              "RelativeDocumentMoniker": "Job22\\Models\\Employer.cs",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Models\\Employer.cs",
+              "RelativeToolTip": "Job22\\Models\\Employer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T06:17:55.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Job22\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Job22\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T08:09:24.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Job22\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Job22\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T10:27:03.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Program.cs",
+              "RelativeDocumentMoniker": "Job22\\Program.cs",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Program.cs",
+              "RelativeToolTip": "Job22\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T06:57:32.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Job22\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Job22\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxAAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T07:13:33.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Job22\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Job22\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvw8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T07:56:16.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\appsettings.json",
+              "RelativeDocumentMoniker": "Job22\\appsettings.json",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\appsettings.json",
+              "RelativeToolTip": "Job22\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T06:04:46.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Job22\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Job22\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T08:09:41.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Job22\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Job22\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T08:43:15.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Job22.csproj",
+              "DocumentMoniker": "D:\\Public\\web C#\\Job22\\Job22\\Job22.csproj",
+              "RelativeDocumentMoniker": "Job22\\Job22.csproj",
+              "ToolTip": "D:\\Public\\web C#\\Job22\\Job22\\Job22.csproj",
+              "RelativeToolTip": "Job22\\Job22.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-09T06:21:10.724Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

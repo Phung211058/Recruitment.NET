@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Job22.Models.JobList>
+
+@{
+    ViewData["Title"] = "Danh Sách Công Việc";
+}
+
+<h2>@ViewData["Title"]</h2>
+<form asp-action="JobForCandidates" method="get">
+    <div class="form-group">
+        <input type="text" class="form-control" name="searchString" value="@ViewData["CurrentFilter"]" placeholder="Tìm kiếm...">
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Tìm kiếm" class="btn btn-default" />
+    </div>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Tiêu Đề</th>
+            <th>Mô Tả</th>
+            <th>Yêu Cầu</th>
+            <th>Lợi Ích</th>
+            <th>Địa Điểm</th>
+            <th>Thời Gian Làm Việc</th>
+            <th>Hành Động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var JobList in Model)
+        {
+            <tr>
+                <td>@JobList.Title</td>
+                <td>@JobList.Description</td>
+                <td>@JobList.Requirement</td>
+                <td>@JobList.Benefit</td>
+                <td>@JobList.Location</td>
+                <td>@JobList.WorkingTime</td>
+                <td>
+                    @* <a href="@Url.Action("RegisterForJob", "Applications", new { jobListId = JobList.Id })" class="btn btn-primary">Đăng Ký</a> *@
+                    <a asp-controller="Applications" asp-action="Create" asp-route-id="@JobList.Id" class="btn btn-primary">Đăng Ký</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

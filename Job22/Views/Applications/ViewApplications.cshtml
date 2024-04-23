@@ -1,0 +1,21 @@
+﻿@model IEnumerable<Job22.Models.Application>
+
+<h2>Ứng dụng cho JobList</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Tên Ứng viên</th>
+            <th>CV</th>
+            <!-- các cột thông tin khác -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var app in Model)
+        {
+            <tr>
+                <td>@app.Candidate.Name</td>
+                <td><img src="@app.Image" alt="Ảnh ứng viên" width="300"  /></td>
+            </tr>
+        }
+    </tbody>
+</table>
